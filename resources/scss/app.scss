@@ -1,1 +1,5 @@
 @import "~bootstrap/scss/bootstrap";
+
+div.card {
+    width: calc(100% / 3 - 1rem);
+}
